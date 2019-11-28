@@ -16,7 +16,7 @@ require_once MT7_DIR . 'php/lib/MTSerialize.php';
 
 
 /**
- * Movable Type 7 のデータベースを利用した、代替 DataAPI 向けのコントローラー。
+ * Movable Type 7 のデータベースを利用した、代替 DataAPI 向けのコントローラ。
  */
 class MtController extends Controller
 {
